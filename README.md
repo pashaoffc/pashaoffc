@@ -1,5 +1,5 @@
--- ![Header](https://github.com/pashaoffc/pashaoffc/blob/main/assets/head.png)
+## Привет! Я pashaoffc
 
-## Привет! Я ТикТокер pashaoffc
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pashaoffc)](https://github.com/anuraghazra/github-readme-stats)
 
-![Static Badge](https://img.shields.io/badge/aa)
+
