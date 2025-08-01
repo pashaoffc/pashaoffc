@@ -10,5 +10,3 @@
 [![](https://visitcount.itsvg.in/api?id=pashaoffc&icon=0&color=0)](https://visitcount.itsvg.in)
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@pashaoffc) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@stangd) 
-
-## 🌐 Соц. сети:
